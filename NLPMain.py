@@ -169,4 +169,3 @@ df.data()
 # # Example prediction
 # text = "Your sample text here"
 # print("Prediction:", predict(text, tokenizer, model))
-
