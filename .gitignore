@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-"Center data"/
-"Left data"/
-"Right data"/
+"Center Data"/
+"Left Data"/
+"Right Data"/
 
 # C extensions
 *.so
